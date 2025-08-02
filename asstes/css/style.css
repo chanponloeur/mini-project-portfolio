@@ -1,0 +1,16 @@
+header .navbar .navbar-nav .nav-link{
+    display: block;
+    padding-inline: 15px;
+    text-transform: uppercase;
+ 
+}
+header .navbar .navbar-nav .nav-item:hover .nav-link{
+    color:#fb2c36;
+}
+.hero-banner{
+    padding-block: 40px;
+}
+.hero-banner .card .card-title h1{
+    font-size: 60px;
+    font-weight: bold;
+}
